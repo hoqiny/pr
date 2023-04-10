@@ -6,7 +6,7 @@
 .bt{
     transition: all 1s ease 0s;
     margin: 20px auto;
-    width:200px;
+    width:70%;
     height:30px;
     background-color:lavender;
     cursor:pointer;
