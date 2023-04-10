@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container2{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+   width:auto;
+   height: 1400px;
+   background-color: cornflowerblue;  
+}
+.container_min2{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+   width:auto;
+   height: 200px;
+   background-color: lightslategrey;  
+}
+.bLeft2{
+   
+    width: 20%;
+   height: auto;
+   background-color: lavenderblush;
+}
+ .bRight2{
+    
+    width: 80%;
+   height: auto;
+   background-color:rgb(210, 200, 235);
+}
